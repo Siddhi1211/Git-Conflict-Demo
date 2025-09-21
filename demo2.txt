@@ -1,1 +1,3 @@
-second demo of git clonflict
+Second demo of git conflict
+Hello Siddhi from feature-branch
+This is the change in demo2
